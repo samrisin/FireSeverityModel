@@ -23,7 +23,7 @@ Due to low datasets present for low and moderate fire data, the model currenlty 
 ![Alt text](abc178.jpg)
 
 # Result
-![Alt text](result3.jpg)
+![Alt text](result1.jpg)
 
 
 # 4 No Fire Image
