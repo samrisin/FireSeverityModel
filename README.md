@@ -1,4 +1,4 @@
-# FireSeverityModel
+# Fire Severity Classifier Model 
 Python model to classify the severity of a fire from an image
 
 The Model classifies image into four categories fire/No_fire and fire level from low to severe.
